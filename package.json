@@ -1,0 +1,28 @@
+{
+  "name": "neon-loader",
+  "version": "1.0.0",
+  "description": "Neon loader for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiripudil/neon-loader.git"
+  },
+  "keywords": [
+    "neon",
+    "webpack",
+    "loader"
+  ],
+  "author": "Jiří Pudil <me@jiripudil.cz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiripudil/neon-loader/issues"
+  },
+  "homepage": "https://github.com/jiripudil/neon-loader",
+  "peerDependencies": {
+    "neon-js": "^1.1.1"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "devDependencies": {}
+}
