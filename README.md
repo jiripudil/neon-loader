@@ -1,6 +1,5 @@
 # neon-loader for webpack
 
-[![Build Status](https://img.shields.io/travis/jiripudil/neon-loader.svg)](https://travis-ci.org/jiripudil/neon-loader)
 [![npm version](https://img.shields.io/npm/v/neon-loader.svg)](https://npmjs.com/package/neon-loader)
 [![npm monthly downloads](https://img.shields.io/npm/dm/neon-loader.svg)](https://npmjs.com/package/neon-loader)
 [![npm downloads](https://img.shields.io/npm/dt/neon-loader.svg)](https://npmjs.com/package/neon-loader)
